@@ -1,3 +1,3 @@
-# push_swap
+# push_swap [![kiroussa's 42 push_swap Score](https://badge42.coday.fr/api/v2/clqhi717m065501p4hai37lsg/project/3414943)](https://projects.intra.42.fr/projects/42cursus-push_swap/projects_users/3414943)
 
 ##### Because some smartass thought `sort()` was too easy...
